@@ -6,6 +6,7 @@ Simple chat client allowing communication between clients via specified IP addre
 
 Usage:
 server (IP address) (port number)
+
 client (IP address) (port number)
 
 Client supports two commands: name and quit.
